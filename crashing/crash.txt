@@ -1,0 +1,64 @@
+Obtained 63 stack frames
+0x00007ffe26394562 (mono-2.0-bdwgc) [metadata.c:6201] do_mono_metadata_type_equal 
+0x00007ffe263bad3c (mono-2.0-bdwgc) [mono-hash.c:122] mono_g_hash_table_find_slot 
+0x00007ffe26431154 (mono-2.0-bdwgc) [reflection.c:491] mono_type_get_object_checked 
+0x00007ffe264316c4 (mono-2.0-bdwgc) [reflection.c:610] method_object_construct 
+0x00007ffe2642fa97 (mono-2.0-bdwgc) [reflection-cache.h:123] check_or_construct_handle 
+0x00007ffe264317f7 (mono-2.0-bdwgc) [reflection.c:655] mono_method_get_object_checked 
+0x00007ffe2657a2c0 (mono-2.0-bdwgc) [mini-exceptions.c:1928] ves_icall_get_frame_info 
+0x000001ad47b1632d (Mono JIT Code) (wrapper managed-to-native) System.Diagnostics.StackFrame:get_frame_info (int,bool,System.Reflection.MethodBase&,int&,int&,string&,int&,int&)
+0x000001ad47b16213 (Mono JIT Code) System.Diagnostics.StackFrame:.ctor (int,bool)
+0x000001ad47b1603b (Mono JIT Code) System.Diagnostics.StackTrace:init_frames (int,bool)
+0x000001ad47b15ecb (Mono JIT Code) System.Diagnostics.StackTrace:.ctor (int,bool)
+0x000001ad47b1840b (Mono JIT Code) UnityEngine.StackTraceUtility:ExtractStringFromExceptionInternal (object,string&,string&)
+0x000001ad47b18630 (Mono JIT Code) (wrapper runtime-invoke) <Module>:runtime_invoke_void_object_intptr&_intptr& (object,intptr,intptr,intptr)
+0x00007ffe2648feb4 (mono-2.0-bdwgc) [mini-runtime.c:3445] mono_jit_runtime_invoke 
+0x00007ffe263ce764 (mono-2.0-bdwgc) [object.c:3066] do_runtime_invoke 
+0x00007ffe263ce8fc (mono-2.0-bdwgc) [object.c:3113] mono_runtime_invoke 
+0x00007ff6fcc4b394 (Unity) scripting_method_invoke
+0x00007ff6fcc2ac34 (Unity) ScriptingInvocation::Invoke
+0x00007ff6fcc4ba4f (Unity) scripting_stack_trace_info_for
+0x00007ff6fcc2b4aa (Unity) Scripting::LogExceptionFromManaged
+0x00007ff6fcc2b2ef (Unity) Scripting::LogException
+0x00007ff6fcc2ac92 (Unity) ScriptingInvocation::Invoke
+0x00007ff6fc5e2fd0 (Unity) BurstCompilerService::CompileAsync
+0x00007ff6fc5e3d8a (Unity) BurstCompilerService::GetDisassembly
+0x00007ff6fbdde174 (Unity) BurstCompilerService_CUSTOM_GetDisassembly
+0x000001acf7eb3405 ((<unknown>)) 
+0x000001acf7eb32eb ((<unknown>)) 
+0x000001acf7eb5863 ((<unknown>)) 
+0x000001acf7eb31e3 ((<unknown>)) 
+0x000001acf7eb2933 ((<unknown>)) 
+0x000001acf7eb0feb ((<unknown>)) 
+0x000001acf7eb179d ((<unknown>)) 
+0x00007ffe2648feb4 (mono-2.0-bdwgc) [mini-runtime.c:3445] mono_jit_runtime_invoke 
+0x00007ffe263ce764 (mono-2.0-bdwgc) [object.c:3066] do_runtime_invoke 
+0x00007ffe263c9810 (mono-2.0-bdwgc) [object.c:563] mono_runtime_class_init_full 
+0x00007ffe26336290 (mono-2.0-bdwgc) [icall-def.h:751] ves_icall_System_Runtime_CompilerServices_RuntimeHelpers_RunClassConstructor_raw 
+0x000001ab97462b0a ((<unknown>)) 
+0x000001ab974629fb ((<unknown>)) 
+0x000001ab9746185b ((<unknown>)) 
+0x000001ab9741aaa8 ((<unknown>)) 
+0x00007ffe2648feb4 (mono-2.0-bdwgc) [mini-runtime.c:3445] mono_jit_runtime_invoke 
+0x00007ffe263ce764 (mono-2.0-bdwgc) [object.c:3066] do_runtime_invoke 
+0x00007ffe263ce8fc (mono-2.0-bdwgc) [object.c:3113] mono_runtime_invoke 
+0x00007ff6fcc4b394 (Unity) scripting_method_invoke
+0x00007ff6fcc2ac34 (Unity) ScriptingInvocation::Invoke
+0x00007ff6fcc25845 (Unity) ScriptingInvocation::Invoke<void>
+0x00007ff6fcd67df3 (Unity) Scripting::UnityEditor::EditorAssembliesProxy::ProcessInitializeOnLoadAttributes
+0x00007ff6fcc1fa8b (Unity) MonoManager::SetupLoadedEditorAssemblies
+0x00007ff6fcc1557d (Unity) MonoManager::EndReloadAssembly
+0x00007ff6fcc1d108 (Unity) MonoManager::ReloadAssembly
+0x00007ff6fdb6b20d (Unity) Internal_ADB_Only_ReloadAllUsedAssemblies
+0x00007ff6fe0298ea (Unity) ImportOutOfDateAssets
+0x00007ff6fe035763 (Unity) RefreshInternalV2
+0x00007ff6fe03ce1b (Unity) StopAssetImportingV2Internal
+0x00007ff6fdb46646 (Unity) EditorSceneManager::RestoreSceneBackups
+0x00007ff6fd84ed25 (Unity) PlayerLoopController::EnterPlayMode
+0x00007ff6fd85eb87 (Unity) PlayerLoopController::SetIsPlaying
+0x00007ff6fd861f89 (Unity) Application::TickTimer
+0x00007ff6fdcb6ada (Unity) MainMessageLoop
+0x00007ff6fdcbb3ab (Unity) WinMain
+0x00007ff6ff06e78e (Unity) __scrt_common_main_seh
+0x00007ffe56837034 (KERNEL32) BaseThreadInitThunk
+0x00007ffe587a26a1 (ntdll) RtlUserThreadStart

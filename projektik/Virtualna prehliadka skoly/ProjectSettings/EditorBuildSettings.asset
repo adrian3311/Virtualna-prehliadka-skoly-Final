@@ -1,0 +1,230 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/12_vonokParkovisko.unity
+    guid: 0dbe1f6a6c213e84484ccb5c60761e93
+  - enabled: 1
+    path: Assets/Scenes/1_chodba_pred_jed.unity
+    guid: 5de13c3aa1f532544aec3211c1ff6040
+  - enabled: 1
+    path: Assets/Scenes/2_jedalen.unity
+    guid: 4a4ac0afe25c1544e9928589baf7114d
+  - enabled: 1
+    path: Assets/Scenes/3_bufet.unity
+    guid: 2623bd95f245a114baeb813fc3a8aa8e
+  - enabled: 1
+    path: Assets/Scenes/4_chodbaBufet.unity
+    guid: 35f845ea874e0f947b812be50af0f15e
+  - enabled: 1
+    path: Assets/Scenes/5_telocvicne.unity
+    guid: 2a657c5d53b776c449032e83e1f9ed03
+  - enabled: 1
+    path: Assets/Scenes/6_satne_naTSV.unity
+    guid: f1105f080be9cf04daa8e9e75ef9c118
+  - enabled: 1
+    path: Assets/Scenes/7_Phlavna_chodba.unity
+    guid: 8b7459bc2603cb746adafe8bfc492671
+  - enabled: 1
+    path: Assets/Scenes/8_vestibul.unity
+    guid: 12d49bfc4d8442e41af5b001febb9233
+  - enabled: 1
+    path: Assets/Scenes/9_satne1.unity
+    guid: 627e1fc6a4a11b841b73d6f4cea16fe4
+  - enabled: 1
+    path: Assets/Scenes/10_satne_medzichodba.unity
+    guid: 9cdd84febea442347bd5d15693b57fb9
+  - enabled: 1
+    path: Assets/Scenes/11_satne2.unity
+    guid: ca2ac1252fed26e4d86a3fe957a81973
+  - enabled: 1
+    path: Assets/Scenes/13_vestibul2.unity
+    guid: d60bda764c7c63743a1cd05155e81f22
+  - enabled: 1
+    path: Assets/Scenes/14_Lhlavna_chodba.unity
+    guid: 7386764c6cc061f4e9d6eaaf18506951
+  - enabled: 1
+    path: Assets/Scenes/15_smerKniznica.unity
+    guid: e479257bf2db53345bfc7dcbee7e9971
+  - enabled: 1
+    path: Assets/Scenes/16_kniznica.unity
+    guid: 59f5946d1585d124db0ceaf5f682fdd8
+  - enabled: 1
+    path: Assets/Scenes/17_velkaSala.unity
+    guid: 626fe209a9f6707428e0c7fcc625965e
+  - enabled: 1
+    path: Assets/Scenes/18_satnePrax.unity
+    guid: 838caa7bc62f25e4580e32502eb78d95
+  - enabled: 1
+    path: Assets/Scenes/19_ucebne600.unity
+    guid: ce86472c3fad7334497b511a2d73edae
+  - enabled: 1
+    path: Assets/Scenes/20_prax.unity
+    guid: e55d2b6e2e085f843923984a4e50714d
+  - enabled: 1
+    path: Assets/Scenes/21_700-600.unity
+    guid: 88e6112b3b570c144887d95aab64074f
+  - enabled: 1
+    path: Assets/Scenes/22_podkrovie.unity
+    guid: 2a5cf16882b7547448aeecb687178fa6
+  - enabled: 1
+    path: Assets/Scenes/23_schodPodkrovie.unity
+    guid: 2f5cc70d1558fc14896963ea90f0455f
+  - enabled: 1
+    path: Assets/Scenes/24_1000ky.unity
+    guid: c92d0961bb2f0184ab1338eb777bd74d
+  - enabled: 1
+    path: Assets/Scenes/25_chod1000.unity
+    guid: 1cb7b6f1d84c2614ba822800c1d33ac5
+  - enabled: 1
+    path: Assets/Scenes/26_1000-900.unity
+    guid: ea547f5a9609460409ab6cbb57869436
+  - enabled: 1
+    path: Assets/Scenes/27_chod900.unity
+    guid: 9b99707101e5ae345b112ebc60162d9a
+  - enabled: 1
+    path: Assets/Scenes/28_900ky.unity
+    guid: 1262510f3f210c14591ec6ebac312f6b
+  - enabled: 1
+    path: Assets/Scenes/29_900-800.unity
+    guid: c6ee7fbe8118d2c428fe43ed960864ff
+  - enabled: 1
+    path: Assets/Scenes/30_chod800.unity
+    guid: f256499cb7fb7b84696ea6680a4e00ff
+  - enabled: 1
+    path: Assets/Scenes/31_800ky.unity
+    guid: c82bd628e97fb02489811aee95bde1f6
+  - enabled: 1
+    path: Assets/Scenes/32_800-700.unity
+    guid: c527f41875d58a842b3f02afa7787bae
+  - enabled: 1
+    path: Assets/Scenes/33_chod700.unity
+    guid: 5cd3b15a4ed8a104e85d687e3ec9b266
+  - enabled: 1
+    path: Assets/Scenes/34_700ky.unity
+    guid: 2b5770d87eafb9346b8d423fe879dafe
+  - enabled: 1
+    path: Assets/Scenes/35_500ky.unity
+    guid: 726bf9e1bc54d3048ab5b271a0596bef
+  - enabled: 1
+    path: Assets/Scenes/36_chod500.unity
+    guid: 1d76304ab2f6a0c43b9ca3ba7013fff1
+  - enabled: 1
+    path: Assets/Scenes/37_500-400.unity
+    guid: 18f0cb282fa1d574da2c260e33057fab
+  - enabled: 1
+    path: Assets/Scenes/38_chod400.unity
+    guid: cf33e9890dda97442b73038a3d8de4b7
+  - enabled: 1
+    path: Assets/Scenes/39_400ky.unity
+    guid: 6aad4c740d57a1d4f949d3fcc243cc1f
+  - enabled: 1
+    path: Assets/Scenes/40_ucebna400_vzadu.unity
+    guid: d83493aefc8ae934c9510d771b0c2758
+  - enabled: 1
+    path: Assets/Scenes/41_ucebna407.unity
+    guid: 0a9a6254fa0e4294da81410d2f71b16d
+  - enabled: 1
+    path: Assets/Scenes/42_400-300.unity
+    guid: 7803bc0b0948e1f4382125eeeb04e440
+  - enabled: 1
+    path: Assets/Scenes/43_chod300.unity
+    guid: c8d2922cc11c6b1498dc9326d0d631f0
+  - enabled: 1
+    path: Assets/Scenes/44_300ky.unity
+    guid: fb9e145b7ead53a4d87e843dc87705c0
+  - enabled: 1
+    path: Assets/Scenes/45_300-200.unity
+    guid: f01dd83b1c0b69242b59336ea31f684f
+  - enabled: 1
+    path: Assets/Scenes/46_chod200.unity
+    guid: 77b767598c8d3bd48b11e511c23b7a8e
+  - enabled: 1
+    path: Assets/Scenes/47_200ky.unity
+    guid: fb1085d88a22ebb45808ed28d48057a9
+  - enabled: 1
+    path: Assets/Scenes/48_200-100.unity
+    guid: c317874f7222a5142b2eaef1f69ac4c4
+  - enabled: 1
+    path: Assets/Scenes/49_dielneSutek.unity
+    guid: f41fbf3fef005c544a8a60786df44ea5
+  - enabled: 1
+    path: Assets/Scenes/50_dielneSrenkel.unity
+    guid: 21c6e84999075e349a0c432e8193230f
+  - enabled: 1
+    path: Assets/Scenes/51_dielneDragun.unity
+    guid: cb3f63b3a00041f4093760979cfd448a
+  - enabled: 1
+    path: Assets/Scenes/52_dielnePalica.unity
+    guid: 071415cd2f428494281a41f8f67631a4
+  - enabled: 1
+    path: Assets/Scenes/53_dielnePalica2.unity
+    guid: d701419170db0d64795955887127cf89
+  - enabled: 1
+    path: Assets/Scenes/54_dielna.unity
+    guid: aa6a44ca3a70959408919680a18777cc
+  - enabled: 1
+    path: Assets/Scenes/55_ucebna900.unity
+    guid: 59486f6f72498804eb2192d331690885
+  - enabled: 1
+    path: Assets/Scenes/56_ucebnaSovik.unity
+    guid: dc6b52d6d92a44342bd66a8573e6ea7c
+  - enabled: 1
+    path: Assets/Scenes/57_900vzadu.unity
+    guid: 2ceaf9168d01d3e42bfcb49d11b720fc
+  - enabled: 1
+    path: Assets/Scenes/58_ucebnaD.unity
+    guid: dd76915b9a492a648bdc9bcc5c1d9e66
+  - enabled: 1
+    path: Assets/Scenes/59_800P.unity
+    guid: 658289007d27fd949beb642f940d85da
+  - enabled: 1
+    path: Assets/Scenes/60_800oprotiP.unity
+    guid: 08c953b11279fdc448530fb8cc79ca40
+  - enabled: 1
+    path: Assets/Scenes/61_800server.unity
+    guid: cb018e0893f810f46a89a12f1c0c66f0
+  - enabled: 1
+    path: Assets/Scenes/62_ucebnaMedzi.unity
+    guid: fe4205bcaadede048a7488792ea8314c
+  - enabled: 1
+    path: Assets/Scenes/63_700nova.unity
+    guid: f82aea4bdf4a00542bf3bf1e7f3d4aac
+  - enabled: 1
+    path: Assets/Scenes/64_TeiTV.unity
+    guid: ac02cc76d7543fd4c8a5e9f2305f431a
+  - enabled: 1
+    path: Assets/Scenes/65_TeiM.unity
+    guid: c32bbcb4c44d10f47959b4321d347e32
+  - enabled: 1
+    path: Assets/Scenes/66_200Druska.unity
+    guid: 30d65b70981e3d54ab6dc0a05cc57e0f
+  - enabled: 1
+    path: Assets/Scenes/67_podkrovie1.unity
+    guid: 346af7f2da60cb040a8797e4941a2937
+  - enabled: 1
+    path: Assets/Scenes/68_podkrovie2.unity
+    guid: 1c018e0a8e895df43af4dad16867b8bf
+  - enabled: 1
+    path: Assets/Scenes/69_ucebnaIv.unity
+    guid: 44d8cfc4b34d88e4088cdc858a1d9e9e
+  - enabled: 1
+    path: Assets/Scenes/70_malaTel.unity
+    guid: 95f4377625a530a44b770786380613e3
+  - enabled: 1
+    path: Assets/Scenes/71_schodPosilka.unity
+    guid: ea2b8f0010107ad4aabb97a3fb08afa0
+  - enabled: 1
+    path: Assets/Scenes/72_posilka.unity
+    guid: 4d8b74cd17b0f0c47ba89c40c4547f62
+  - enabled: 1
+    path: Assets/Scenes/73_velkaTel.unity
+    guid: a4dd46ded8a05344b94aeb66ca1e70fe
+  m_configObjects: {}
