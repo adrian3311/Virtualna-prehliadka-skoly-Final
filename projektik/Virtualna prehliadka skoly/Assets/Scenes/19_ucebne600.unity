@@ -484,7 +484,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6f6ef64033d1994f9b9dd83772640d2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  message: Satne na prax
+  message: "\u0160atne na prax"
 --- !u!1001 &658967866
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1119,4 +1119,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6f6ef64033d1994f9b9dd83772640d2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  message: ' Velka chodba nalavo'
+  message: "Vr\xE1tnica"

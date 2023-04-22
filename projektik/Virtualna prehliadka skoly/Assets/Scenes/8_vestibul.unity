@@ -355,7 +355,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6f6ef64033d1994f9b9dd83772640d2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  message: Satne 1
+  message: "\u0160atne 1"
 --- !u!1001 &277384031
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1087,7 +1087,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6f6ef64033d1994f9b9dd83772640d2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  message: ' Velka chodba napravo'
+  message: "Riadite\u013E\u0148a"
 --- !u!1001 &1491726358
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1196,7 +1196,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6f6ef64033d1994f9b9dd83772640d2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  message: ' Velka chodba nalavo'
+  message: "Vr\xE1tnica"
 --- !u!1 &1552921294
 GameObject:
   m_ObjectHideFlags: 0

@@ -360,7 +360,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6f6ef64033d1994f9b9dd83772640d2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  message: Telocvicne
+  message: "Telocvi\u010Dne"
 --- !u!1 &398472371
 GameObject:
   m_ObjectHideFlags: 0
@@ -909,7 +909,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6f6ef64033d1994f9b9dd83772640d2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  message: ' Velka chodba napravo'
+  message: "Riadite\u013E\u0148a"
 --- !u!1 &1665062926
 GameObject:
   m_ObjectHideFlags: 0

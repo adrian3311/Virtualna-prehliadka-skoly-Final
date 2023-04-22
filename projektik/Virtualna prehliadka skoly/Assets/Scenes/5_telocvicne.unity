@@ -455,7 +455,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6f6ef64033d1994f9b9dd83772640d2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  message: Mala telocvicna
+  message: "Mal\xE1 telocvi\u010D\u0148a"
 --- !u!1 &560317925
 GameObject:
   m_ObjectHideFlags: 0
@@ -679,7 +679,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6f6ef64033d1994f9b9dd83772640d2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  message: Satne TSV
+  message: "\u0160atne TSV"
 --- !u!1001 &737801051
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -787,7 +787,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6f6ef64033d1994f9b9dd83772640d2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  message: Velka telocvicna
+  message: "Ve\u013Ek\xE1 telocvi\u010D\u0148a"
 --- !u!1001 &899630773
 PrefabInstance:
   m_ObjectHideFlags: 0

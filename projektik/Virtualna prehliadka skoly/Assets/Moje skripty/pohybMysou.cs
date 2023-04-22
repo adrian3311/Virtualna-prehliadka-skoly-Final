@@ -6,7 +6,7 @@ public class pohybMysou : MonoBehaviour
 {
     //rychlost otacania
     public float speed = 2;
-
+ 
     private Camera mainCamera;
 
     //autom. rotacia
@@ -33,7 +33,7 @@ public class pohybMysou : MonoBehaviour
         {
 
             Camera.main.transform.eulerAngles = new Vector3(0, GameObject.Find("Manager").GetComponent<Manager>().uhol, 0);
-
+            //cameraHolder.transform.eulerAngles = new Vector3(0, GameObject.Find("Manager").GetComponent<Manager>().uhol, 0);
 
         }
         
@@ -61,7 +61,9 @@ public class pohybMysou : MonoBehaviour
 
         if (rotationTick >= rotationTime)
         {
-            transform.rotation = Quaternion.Euler(transform.rotation.x, (rotationSpeed * Time.deltaTime) + rotationSave, 0);
+            //transform.rotation = Quaternion.Euler(transform.rotation.x, (rotationSpeed * Time.deltaTime) + rotationSave, 0);
+
+            //transform.localRotation = Quaternion.Euler(transform.localRotation.eulerAngles.x, (rotationSpeed * Time.deltaTime) + rotationSave, 0);
             rotationSave = 0;
         }
 

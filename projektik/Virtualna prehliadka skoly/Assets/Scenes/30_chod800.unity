@@ -345,7 +345,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6f6ef64033d1994f9b9dd83772640d2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  message: 800ky ucebne
+  message: "800ky u\u010Debne"
 --- !u!1001 &311019716
 PrefabInstance:
   m_ObjectHideFlags: 0

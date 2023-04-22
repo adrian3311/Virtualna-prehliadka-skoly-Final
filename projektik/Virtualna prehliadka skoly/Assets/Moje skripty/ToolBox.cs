@@ -41,11 +41,14 @@ public class ToolBox : MonoBehaviour
         gameObject.SetActive(true);
         textComponent.text = message;
 
+        Cursor.visible = false;
     }
 
     public void HideToolTip()
     {
         gameObject.SetActive(false);
         textComponent.text = string.Empty;
+
+        Cursor.visible = true;
     }
 }

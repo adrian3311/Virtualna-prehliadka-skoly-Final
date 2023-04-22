@@ -236,7 +236,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6f6ef64033d1994f9b9dd83772640d2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  message: Satne TSV
+  message: "\u0160atne TSV"
 --- !u!1001 &435061991
 PrefabInstance:
   m_ObjectHideFlags: 0

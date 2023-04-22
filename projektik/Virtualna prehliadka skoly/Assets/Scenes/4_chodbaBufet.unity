@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.6051008, g: 0.5354175, b: 0.5051057, a: 1}
+  m_IndirectSpecularColor: {r: 0.60470545, g: 0.53501266, b: 0.5046782, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -213,7 +213,7 @@ PrefabInstance:
     - target: {fileID: 8587328054812384186, guid: 21a7a33a7896746419895ae82faf6774,
         type: 3}
       propertyPath: cameraRotation
-      value: -3466
+      value: -3472
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 4671517252124252540, guid: 21a7a33a7896746419895ae82faf6774, type: 3}
@@ -1010,4 +1010,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6f6ef64033d1994f9b9dd83772640d2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  message: Telocvicne
+  message: "Telocvi\u010Dne"

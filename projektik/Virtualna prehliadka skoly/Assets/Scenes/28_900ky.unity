@@ -552,7 +552,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6f6ef64033d1994f9b9dd83772640d2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  message: 'Ucebna '
+  message: "U\u010Deb\u0148a"
 --- !u!1001 &1028167491
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1080,7 +1080,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6f6ef64033d1994f9b9dd83772640d2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  message: 'Ucebna '
+  message: "U\u010Deb\u0148a"
 --- !u!1 &1900455873
 GameObject:
   m_ObjectHideFlags: 0
