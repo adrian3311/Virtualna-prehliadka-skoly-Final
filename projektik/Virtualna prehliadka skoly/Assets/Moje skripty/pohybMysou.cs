@@ -5,7 +5,7 @@ using UnityEngine;
 public class pohybMysou : MonoBehaviour
 {
     //rychlost otacania
-    public float speed = 2;
+    public float speed = 1.5f;
  
     private Camera mainCamera;
 
